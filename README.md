@@ -1,5 +1,5 @@
 # 육군사령부 인공지능(AI) 공모전
-여긴 설명입니다.
+개발 환경 : Python, Pytorch, Tensorboard, Unity
 
 <br/><br/><br/>
 
