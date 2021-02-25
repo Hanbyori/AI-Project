@@ -3,4 +3,4 @@
 
 ## Step1. 목표를 향해 나아가기
 Agent가 스스로 판단하여 가장 빠르게 목표에 도달할 수 있게 학습
-!((
+![Step1](https://user-images.githubusercontent.com/20338405/109161075-fc457e80-77b9-11eb-9cfd-2790b941df90.gif)
