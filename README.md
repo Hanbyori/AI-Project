@@ -10,3 +10,4 @@ Agent가 스스로 판단하여 가장 빠르게 목표에 도달할 수 있게 
 
 80만번의 학습 결과
 Step: 800000. Time Elapsed: 626.651 s. Mean Reward: 25.462. Std of Reward: 10.457. Training.
+![Step1-result](https://user-images.githubusercontent.com/20338405/109161871-e71d1f80-77ba-11eb-92be-8b29ca0336ea.PNG)
