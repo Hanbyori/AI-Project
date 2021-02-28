@@ -14,3 +14,9 @@ Agent가 스스로 판단하여 가장 빠르게 목표에 도달할 수 있게 
 Step: 800000. Time Elapsed: 626.651 s. Mean Reward: 25.462. Std of Reward: 10.457. Training.
 
 ![Step1-result](https://user-images.githubusercontent.com/20338405/109161871-e71d1f80-77ba-11eb-92be-8b29ca0336ea.PNG)
+
+<br/><br/><br/>
+
+## Step.2 Target 배치하기
+1번 스텝에서 학습한 모델을 토대로 Target 정보를 입력하여 다시 학습
+![Step2](https://user-images.githubusercontent.com/20338405/109424051-6e6dcb80-7a25-11eb-917e-35aa8dce0983.gif)
